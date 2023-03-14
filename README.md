@@ -1,4 +1,4 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Bienvenido al repositorio de demostración de su organización
+Este repositorio de código (o "repo") está diseñado para demostrar lo mejor que GitHub puede ofrecer con la menor cantidad de ruido.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+El repositorio incluye un archivo `index.html` (para que pueda renderizar una página web), dos flujos de trabajo GitHub Actions y una dependencia de hoja de estilos CSS.
