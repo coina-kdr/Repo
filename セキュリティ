@@ -1,0 +1,21 @@
+# Política de seguridad
+
+## Versiones compatibles
+
+Utilice esta sección para informar sobre las versiones de su proyecto
+que actualmente reciben actualizaciones de seguridad.
+
+| Versión | Soporte            |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Notificación de una vulnerabilidad
+
+Utilice esta sección para indicar a los usuarios cómo informar de una vulnerabilidad.
+
+Dígales dónde dirigirse, con qué frecuencia pueden esperar recibir una actualización sobre una vulnerabilidad notificada, qué esperar si la vulnerabilidad es aceptada o rechazada, etc.
+
+
